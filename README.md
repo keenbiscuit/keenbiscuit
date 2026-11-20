@@ -52,7 +52,7 @@ Software engineer building full-stack applications, APIs, and automation tools. 
       <a href="https://muniverse-616g.onrender.com/"><img src="https://img.shields.io/badge/try_the_demo-2E0854?style=for-the-badge" alt="Try the demo" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>📡<a href="https://github.com/keenbiscuit/Operations-Event-Platform"></a> Operations Event Platform</h3>
+      <h3>📡<a href="https://github.com/keenbiscuit/Operations-Event-Platform"> Operations Event Platform</a></h3>
       <sub><b>Rule-based event processing and alerting</b></sub>
       <p>Ingests asset events, evaluates configurable rules, and creates auditable alerts. Includes REST APIs for filtering, acknowledging, and resolving alerts.</p>
       <p><code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Flyway</code> <code>Docker</code></p>
