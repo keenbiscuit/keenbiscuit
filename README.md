@@ -27,8 +27,9 @@ Software engineer building full-stack applications, APIs, and automation tools. 
 | Year | What happened |
 |---|---|
 | 2023 | Joined Exact Sciences as an ERP-SAP Intern, building UiPath automations and supporting SAP Fiori deployment. |
-| 2025 | Graduated from Illinois State University with a B.S. in Computer Science. |
 | 2025 | Worked as a Software Engineer Intern at Base Ventures, developing Java features, SQL changes, and an operations automation tool. |
+| 2025 | Graduated from Illinois State University with a B.S. in Computer Science. |
+
 
 ## 💼 Experience
 <table>
