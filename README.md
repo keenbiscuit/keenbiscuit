@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/keenbiscuit"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:2E0854&height=220&section=header&text=Solomon%20Hudson&fontSize=80&fontColor=F5E6CC&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20AWS%20Certified&descSize=24&descAlignY=64" width="100%" alt="Solomon Hudson, Software Engineer" /></a>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=003B2D&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+building+Java+and+Spring+Boot+apps.;%3E+turning+ideas+into+deployed+projects.;%3E+exploring+music%2C+games%2C+and+automation." width="100%" alt="Building apps, shipping projects, exploring new ideas" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=F5E6CC&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+building+Java+and+Spring+Boot+apps.;%3E+turning+ideas+into+deployed+projects.;%3E+exploring+music%2C+games%2C+and+automation." width="100%" alt="Building apps, shipping projects, exploring new ideas" />
 </p>
 
 <p align="center">
