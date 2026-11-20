@@ -21,15 +21,10 @@ Software engineer building full-stack applications, APIs, and automation tools. 
 - Education: B.S. in Computer Science, Illinois State University, 2025
 
 ## 🌱 How I Got Here
-<details>
 
-<summary><b>Joined Exact Sciences as an ERP-SAP Intern, building UiPath automations and supporting SAP Fiori deployment.</td></tr>
+<b>Joined Exact Sciences as an ERP-SAP Intern, building UiPath automations and supporting SAP Fiori deployment.</td></tr>
   <tr><td><b>2025</b></td><td>Graduated from Illinois State University with a B.S. in Computer Science.</td></tr>
-  <tr><td><b>2025</b></td><td>Worked as a Software Engineer Intern at Base Ventures, developing Java features, SQL changes, and an operations automation tool.</b></summary>
-
-</details>
-
-
+  <tr><td><b>2025</b></td><td>Worked as a Software Engineer Intern at Base Ventures, developing Java features, SQL changes, and an operations automation tool.</b>
 
 ## 💼 Experience
 <table>
