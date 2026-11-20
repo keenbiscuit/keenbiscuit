@@ -24,7 +24,7 @@ me = {
     "degree": "B.S. Computer Science, Illinois State University (2025)",
     "speaks": ["English"],
 }
-```
+
 ## 🌱 How I Got Here
 <details>
 
@@ -96,3 +96,4 @@ me = {
 </p><p align="center"><b>Working on something cool? I’d love to hear about it.</b></p><p align="center">
   <a href="mailto:solomon.hudson25@gmail.com"><img src="https://img.shields.io/badge/say_hi-A21517?style=for-the-badge" alt="Email me" /></a>
 </p><p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=Building%20useful%20things%2C%20one%20project%20at%20a%20time&fontSize=30&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Building useful things, one project at a time" /></p>
+```
