@@ -45,7 +45,8 @@ Software engineer building full-stack applications, APIs, and automation tools. 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>☁️ <a href="https://muniverse-616g.onrender.com/">MuniVerse</a></h3>
+      <h3><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ff2bcc94-fd9f-4e2c-b660-e3eb01a77678" />
+ <a href="https://muniverse-616g.onrender.com/">MuniVerse</a></h3>
       <sub><b>Spotify-powered 3D music exploration · live demo</b></sub>
       <p>Turns Spotify listening preferences into an interactive 3D universe of artists, releases, and songs. Uses Spotify OAuth and a Spring Boot backend, with a React frontend and Docker deployment.</p>
       <p><code>Java</code> <code>Spring Boot</code> <code>React</code> <code>Three.js</code> <code>Docker</code></p>
