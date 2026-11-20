@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/45%25-efficiency%20improvement-003B2D?style=for-the-badge&labelColor=0A0A0A" alt="45% efficiency improvement" />
-  <img src="https://img.shields.io/badge/3-full--stack%20projects-003B2D?style=for-the-badge&labelColor=0A0A0A" alt="Three full-stack projects" />
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-003B2D?style=for-the-badge&labelColor=0A0A0A" alt="AWS Certified Solutions Architect Associate" />
+  <img src="https://img.shields.io/badge/45%25-efficiency%20improvement-123B6D?style=for-the-badge&labelColor=0A0A0A" alt="45% efficiency improvement" />
+  <img src="https://img.shields.io/badge/3-full--stack%20projects-123B6D?style=for-the-badge&labelColor=0A0A0A" alt="Three full-stack projects" />
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-123B6D?style=for-the-badge&labelColor=0A0A0A" alt="AWS Certified Solutions Architect Associate" />
 </p>
 
 ## 🧬 About
