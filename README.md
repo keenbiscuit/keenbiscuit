@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/keenbiscuit"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:2E0854&height=220&section=header&text=Solomon%20Hudson&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20AWS%20Certified&descSize=24&descAlignY=64" width="100%" alt="Solomon Hudson, Software Engineer" /></a>
+  <a href="https://github.com/keenbiscuit"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:2E0854&height=220&section=header&text=Solomon%20Hudson&fontSize=80&fontColor=F5E6CC&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20AWS%20Certified&descSize=24&descAlignY=64" width="100%" alt="Solomon Hudson, Software Engineer" /></a>
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=003B2D&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+building+Java+and+Spring+Boot+apps.;%3E+turning+ideas+into+deployed+projects.;%3E+exploring+music%2C+games%2C+and+automation." width="100%" alt="Building apps, shipping projects, exploring new ideas" />
 </p>
 
@@ -77,4 +77,4 @@ Software engineer building full-stack applications, APIs, and automation tools. 
   <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,spring,postgres,redis,docker,git,github&perline=14&theme=dark" alt="Java, Python, C++, JavaScript, React, Spring, PostgreSQL, Redis, Docker, Git, and GitHub" />
 </p><p align="center"><b>Working on something cool? I’d love to hear about it.</b></p><p align="center">
   <a href="mailto:solomon.hudson25@gmail.com"><img src="https://img.shields.io/badge/say_hi-2E0854?style=for-the-badge" alt="Email me" /></a>
-</p><p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E0854,100:0A0A0A&height=90&section=footer&text=Building%20useful%20things%2C%20one%20project%20at%20a%20time&fontSize=30&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Building useful things, one project at a time" /></p>
+</p><p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E0854,100:0A0A0A&height=90&section=footer&text=Building%20useful%20things%2C%20one%20project%20at%20a%20time&fontSize=30&fontColor=F5E6CC&fontAlignY=52" width="100%" alt="Building useful things, one project at a time" /></p>
