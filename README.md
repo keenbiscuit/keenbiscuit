@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://github.com/keenbiscuit"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:003B2D&height=220&section=header&text=Solomon%20Hudson&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20AWS%20Certified&descSize=24&descAlignY=64" width="100%" alt="Solomon Hudson, Software Engineer" /></a>
+  <a href="https://github.com/keenbiscuit"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:4B0082&height=220&section=header&text=Solomon%20Hudson&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20AWS%20Certified&descSize=24&descAlignY=64" width="100%" alt="Solomon Hudson, Software Engineer" /></a>
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+building+Java+and+Spring+Boot+apps.;%3E+turning+ideas+into+deployed+projects.;%3E+exploring+music%2C+games%2C+and+automation." width="100%" alt="Building apps, shipping projects, exploring new ideas" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/solomonmhudson/"><img src="https://img.shields.io/badge/LinkedIn-003B2D?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:solomon.hudson25@gmail.com"><img src="https://img.shields.io/badge/Email-003B2D?style=for-the-badge" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/solomonmhudson/"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:solomon.hudson25@gmail.com"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ Software engineer building full-stack applications, APIs, and automation tools. 
       <sub><b>Spotify-powered 3D music exploration · live demo</b></sub>
       <p>Turns Spotify listening preferences into an interactive 3D universe of artists, releases, and songs. Uses Spotify OAuth and a Spring Boot backend, with a React frontend and Docker deployment.</p>
       <p><code>Java</code> <code>Spring Boot</code> <code>React</code> <code>Three.js</code> <code>Docker</code></p>
-      <a href="https://muniverse-616g.onrender.com/"><img src="https://img.shields.io/badge/try_the_demo-003B2D?style=for-the-badge" alt="Try the demo" /></a>
+      <a href="https://muniverse-616g.onrender.com/"><img src="https://img.shields.io/badge/try_the_demo-4B0082?style=for-the-badge" alt="Try the demo" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>📡 Operations Event Platform</h3>
@@ -76,5 +76,5 @@ Software engineer building full-stack applications, APIs, and automation tools. 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,spring,postgres,redis,docker,git,github&perline=14&theme=dark" alt="Java, Python, C++, JavaScript, React, Spring, PostgreSQL, Redis, Docker, Git, and GitHub" />
 </p><p align="center"><b>Working on something cool? I’d love to hear about it.</b></p><p align="center">
-  <a href="mailto:solomon.hudson25@gmail.com"><img src="https://img.shields.io/badge/say_hi-003B2D?style=for-the-badge" alt="Email me" /></a>
-</p><p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:003B2D,100:0A0A0A&height=90&section=footer&text=Building%20useful%20things%2C%20one%20project%20at%20a%20time&fontSize=30&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Building useful things, one project at a time" /></p>
+  <a href="mailto:solomon.hudson25@gmail.com"><img src="https://img.shields.io/badge/say_hi-4B0082?style=for-the-badge" alt="Email me" /></a>
+</p><p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:4B0082,100:0A0A0A&height=90&section=footer&text=Building%20useful%20things%2C%20one%20project%20at%20a%20time&fontSize=30&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Building useful things, one project at a time" /></p>
