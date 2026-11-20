@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/solomonmhudson/"><img src="https://img.shields.io/badge/LinkedIn-2E0854?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:solomon.hudson25@gmail.com"><img src="https://img.shields.io/badge/Email-2E0854?style=for-the-badge" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/solomonmhudson/"><img src="https://img.shields.io/badge/LinkedIn-F5E6CC?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:solomon.hudson25@gmail.com"><img src="https://img.shields.io/badge/Email-F5E6CC?style=for-the-badge" alt="Email" /></a>
 </p>
 
 <p align="center">
