@@ -16,7 +16,7 @@
 
 ## 🧬 About
 
-python
+```python
 me = {
     "does": "builds full-stack applications, APIs, and automation tools",
     "based": "Chicago, Illinois · open to relocation",
@@ -24,6 +24,7 @@ me = {
     "degree": "B.S. Computer Science, Illinois State University (2025)",
     "speaks": ["English"],
 }
+```
 
 ## 🌱 How I Got Here
 <details>
@@ -59,7 +60,8 @@ me = {
     <td valign="top">Built UiPath workflows that improved employee efficiency by 45%, supported a five-person team during SAP Fiori deployment, and developed an ABAP feature for tax-code integration.</td>
   </tr>
 </table>
-## 🚀 Projects
+
+🚀 Projects
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -90,7 +92,7 @@ me = {
     </td>
   </tr>
 </table>
-## 🧰 Stack
+🧰 Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,spring,postgres,redis,docker,git,github&perline=14&theme=dark" alt="Java, Python, C++, JavaScript, React, Spring, PostgreSQL, Redis, Docker, Git, and GitHub" />
 </p><p align="center"><b>Working on something cool? I’d love to hear about it.</b></p><p align="center">
