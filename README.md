@@ -22,8 +22,6 @@ Software engineer building full-stack applications, APIs, and automation tools. 
 
 ## 🌱 How I Got Here
 
-## 🌱 How I Got Here
-
 | Year | What happened |
 |---|---|
 | 2023 | Joined Exact Sciences as an ERP-SAP Intern, building UiPath automations and supporting SAP Fiori deployment. |
