@@ -45,14 +45,14 @@ Software engineer building full-stack applications, APIs, and automation tools. 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3> 🌠 Muniverse <a href="https://muniverse-616g.onrender.com/">MuniVerse</a></h3>
+      <h3> 🌠 <a href="https://muniverse-616g.onrender.com/">MuniVerse</a></h3>
       <sub><b>Spotify-powered 3D music exploration · live demo</b></sub>
       <p>Turns Spotify listening preferences into an interactive 3D universe of artists, releases, and songs. Uses Spotify OAuth and a Spring Boot backend, with a React frontend and Docker deployment.</p>
       <p><code>Java</code> <code>Spring Boot</code> <code>React</code> <code>Three.js</code> <code>Docker</code></p>
       <a href="https://muniverse-616g.onrender.com/"><img src="https://img.shields.io/badge/try_the_demo-2E0854?style=for-the-badge" alt="Try the demo" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>📡 Operations Event Platform</h3>
+      <h3>📡<a href="https://github.com/keenbiscuit/Operations-Event-Platform"></a> Operations Event Platform</h3>
       <sub><b>Rule-based event processing and alerting</b></sub>
       <p>Ingests asset events, evaluates configurable rules, and creates auditable alerts. Includes REST APIs for filtering, acknowledging, and resolving alerts.</p>
       <p><code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Flyway</code> <code>Docker</code></p>
