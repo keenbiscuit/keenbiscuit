@@ -16,15 +16,9 @@
 
 ## 🧬 About
 
-```python
-me = {
-    "does": "builds full-stack applications, APIs, and automation tools",
-    "based": "Chicago, Illinois · open to relocation",
-    "was": "Software Engineer Intern @ Base Ventures",
-    "degree": "B.S. Computer Science, Illinois State University (2025)",
-    "speaks": ["English"],
-}
-```
+Software engineer building full-stack applications, APIs, and automation tools. Based in Chicago, Illinois, and open to relocation.
+- Previously: Software Engineer Intern at Base Ventures
+- Education: B.S. in Computer Science, Illinois State University, 2025
 
 ## 🌱 How I Got Here
 <details>
@@ -32,18 +26,6 @@ me = {
 <summary><b>Joined Exact Sciences as an ERP-SAP Intern, building UiPath automations and supporting SAP Fiori deployment.</td></tr>
   <tr><td><b>2025</b></td><td>Graduated from Illinois State University with a B.S. in Computer Science.</td></tr>
   <tr><td><b>2025</b></td><td>Worked as a Software Engineer Intern at Base Ventures, developing Java features, SQL changes, and an operations automation tool.</b></summary>
-
-<br />
-
-<table>
-
-  <tr><td><b>Year</b></td><td>what happened</td></tr>
-
-  <tr><td><b>Year</b></td><td>what happened</td></tr>
-
-  <tr><td><b>Year</b></td><td>what happened</td></tr>
-
-</table>
 
 </details>
 
